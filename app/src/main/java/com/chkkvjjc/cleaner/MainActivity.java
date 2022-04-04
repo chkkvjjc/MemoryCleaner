@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
     Handler showmemory;
     ProgressBar membar;
-    TextView avail,total;//54977d4007f2b44bf2d284c93abc9a30 //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
+    TextView avail,total;
     long totalMemory;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
